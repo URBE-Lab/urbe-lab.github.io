@@ -1,0 +1,12 @@
+---
+# HOW TO ADD A NEWS ITEM
+# Copy this file to news/YYYY-MM-short-name.qmd (no leading underscore),
+# set the date, type, and title, and write 1-3 sentences. Only month and year are shown.
+# Type (pick one): Publication, Collaborator paper, Conference, Grant, Award, Appointment, Lab
+title: "Short headline"
+date: 2026-01-01
+categories: [Publication]
+description: "One-sentence summary shown in the news list."
+---
+
+Optional longer text, links to the paper or event, and an image.

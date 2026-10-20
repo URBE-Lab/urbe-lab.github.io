@@ -1,0 +1,20 @@
+---
+# HOW TO ADD YOURSELF
+# 1. Copy this file and rename it firstname-lastname.qmd (no leading underscore).
+# 2. Add a square photo to images/team/firstname-lastname.jpg (at least 400x400 px).
+# 3. Fill in the fields below. "order" controls position on the Team page
+#    (PI = 1, postdocs 2-9, PhD 10-19, MPH/MS 20-29, undergrads 30-39).
+# 4. Open a pull request.
+title: "First Last"
+subtitle: "Role, Program (e.g., MPH student, Epidemiology)"
+image: ../images/team/firstname-lastname.jpg
+order: 20
+---
+
+![](../images/team/firstname-lastname.jpg){width=180px fig-alt="Photo of First Last"}
+
+Two or three sentences: background, what you work on in the lab, and what you are interested in.
+
+**Projects:** project name(s)
+
+**Links:** [GitHub](https://github.com/username) · [LinkedIn](https://www.linkedin.com/in/username) · [Email](mailto:name@mssm.edu)

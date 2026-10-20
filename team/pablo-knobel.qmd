@@ -1,0 +1,14 @@
+---
+title: "Pablo Knobel, PhD"
+subtitle: "Principal Investigator"
+image: ../images/person-placeholder.svg
+order: 1
+---
+
+![](../images/person-placeholder.svg){width=180px fig-alt="Photo placeholder"}
+
+**Instructor, Department of Environmental Medicine, Icahn School of Medicine at Mount Sinai**
+
+Pablo is a geospatial environmental epidemiologist whose work bridges exposure science and environmental epidemiology. He develops new metrics of urban nature and studies how the urban exposome shapes cardiometabolic health, biological aging, and cognition.
+
+[Full profile →](../pi.qmd)

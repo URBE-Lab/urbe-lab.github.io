@@ -1,0 +1,8 @@
+---
+title: "Lab member name"
+subtitle: "Role (e.g., MPH student)"
+image: ../images/person-placeholder.svg
+order: 10
+---
+
+[Placeholder profile. Copy `team/_template.qmd`, rename it (e.g., `firstname-lastname.qmd`), fill it in, and delete this file.]{.ph}

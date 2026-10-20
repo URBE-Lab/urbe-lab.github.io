@@ -1,0 +1,16 @@
+---
+title: "News"
+listing:
+  contents: news/*.qmd
+  sort: "date desc"
+  type: table
+  fields: [date, categories, title, description]
+  field-display-names:
+    categories: Type
+  categories: true
+  date-format: "YYYY-MM"
+  sort-ui: false
+  filter-ui: false
+---
+
+Papers, grants, talks, and lab milestones. To add an item, copy `news/_template.qmd` in the repository.

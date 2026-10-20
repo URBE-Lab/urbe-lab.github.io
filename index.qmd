@@ -1,0 +1,40 @@
+---
+pagetitle: "URBE Lab"
+listing:
+  id: latest-news
+  contents: news/*.qmd
+  sort: "date desc"
+  type: table
+  max-items: 4
+  fields: [date, categories, title]
+  field-display-names:
+    categories: Type
+  date-format: "YYYY-MM"
+  sort-ui: false
+  filter-ui: false
+---
+
+::: kicker
+Urban exposome · Healthy aging
+:::
+
+::: headline
+[Placeholder headline, e.g., "Cities shape how we age."]{.ph}
+:::
+
+::: subheadline
+[Placeholder subheadline: one sentence on what the lab does and why it matters.]{.ph}
+:::
+
+We develop new ways to measure urban nature at scale and link them, together with air pollution and the built and social environment, to large electronic health record and geospatial datasets to understand cardiometabolic risk, biological aging, and cognitive health across diverse urban populations.
+
+We are based in the Department of Environmental Medicine at the Icahn School of Medicine at Mount Sinai in New York City. [Placeholder: add link to the department page]{.ph}
+
+[Our research →](research.qmd) · [Meet the team →](team.qmd) · [Join us →](join.qmd)
+
+## Latest news
+
+::: {#latest-news}
+:::
+
+[All news →](news.qmd)

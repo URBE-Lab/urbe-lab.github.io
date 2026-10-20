@@ -1,0 +1,9 @@
+{
+  "orcid": "0000-0001-6902-0286",
+  "author_last_name": "Knobel",
+  "author_first_initial": "P",
+  "pubmed_query": "Knobel P[Author] AND (\"Mount Sinai\"[Affiliation] OR \"Barcelona\"[Affiliation])",
+  "nih_pi": { "first_name": "Pablo", "last_name": "Knobel" },
+  "lookback_days": 180,
+  "contact_email": "pablo.knobel@mssm.edu"
+}

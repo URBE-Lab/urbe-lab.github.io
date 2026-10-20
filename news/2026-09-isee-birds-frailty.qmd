@@ -1,0 +1,8 @@
+---
+title: "Bird biodiversity and frailty presented at ISEE 2026"
+date: 2026-09-02
+categories: [Conference]
+description: "Pablo gave an oral presentation on bird biodiversity and frailty in an urban population at the ISEE annual conference."
+---
+
+Pablo presented "Bird Biodiversity and Frailty in an Urban Population" (Knobel, Alaasam, Kloog, Midya, Federman, Ko, & Yitshak-Sade) at the International Society for Environmental Epidemiology (ISEE) conference.

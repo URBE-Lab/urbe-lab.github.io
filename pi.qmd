@@ -1,0 +1,78 @@
+---
+title: "About Pablo Knobel, PhD"
+pagetitle: "About Pablo"
+subtitle: "Principal Investigator · Instructor, Department of Environmental Medicine, Icahn School of Medicine at Mount Sinai"
+---
+
+:::: {.columns}
+
+::: {.column width="30%"}
+![](images/person-placeholder.svg){width=200px fig-alt="Photo placeholder"}
+
+- [Email](mailto:pablo.knobel@mssm.edu)
+- [Placeholder: Google Scholar]{.ph}
+- [ORCID](https://orcid.org/0000-0001-6902-0286)
+- [Placeholder: Mount Sinai profile]{.ph}
+- [Placeholder: LinkedIn / Bluesky]{.ph}
+- [Placeholder: CV (PDF)]{.ph}
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="65%"}
+Pablo Knobel is a geospatial environmental epidemiologist whose research bridges exposure science and environmental epidemiology. His work applies the exposome framework to understand how the urban environment, and urban nature in particular, shapes aging-related health. He develops and validates new tools to measure urban nature at scale, including the RECITAL green space quality assessment tool and a satellite-based deep learning approach to map green space quality across the continental United States, and applies them alongside electronic health records and geospatial data to study cardiometabolic risk, biological aging, and cognitive health. His air pollution research examines PM~2.5~ components and source-specific mixtures, including exposures related to the World Trade Center disaster.
+
+Pablo has coauthored 25 peer-reviewed publications, 11 as first author and 3 as senior author. He is an International Human Exposome Network (IHEN) exposome ambassador, a 2026 GeoCAFE scholar, and chairs the Mentoring Committee of the ISEE North America Chapter.
+:::
+
+::::
+
+## Appointments
+
+- **Instructor**, Department of Environmental Medicine, Icahn School of Medicine at Mount Sinai, 2026–present
+- **Postdoctoral Fellow**, Department of Environmental Medicine, Icahn School of Medicine at Mount Sinai, 2021–2026 (mentor: Maayan Yitshak Sade)
+- **Clinical Epidemiologist**, Hospital del Mar, Barcelona, 2021
+- **Predoctoral Fellow**, Institute of Environmental Science and Technology (ICTA-UAB) & Barcelona Institute for Global Health (ISGlobal), 2016–2020
+
+## Education
+
+- **PhD in Environmental Epidemiology**, Autonomous University of Barcelona, 2020. Dissertation: *Urban Green Space and Human Health: The Role of Quality Characteristics.* Mentors: Roser Maneja and Payam Dadvand
+- **MSc in Ecological Economics and Political Ecology**, Institute of Environmental Science and Technology, Autonomous University of Barcelona, 2016
+- **BSc in Environmental Sciences**, Autonomous University of Barcelona, 2013
+
+## Selected honors
+
+- Best Poster Award and Travel Award, Santiago Exposome Symposium, 2025
+- Exceptional PhD Recognition, Autonomous University of Barcelona, 2023
+- Best Poster Award, USA–Latin American Exposome Symposium, 2023
+- Travel Award, International Society for Environmental Epidemiology Conference, 2022
+- Summa Cum Laude PhD, Autonomous University of Barcelona, 2020
+
+## Service and appointments
+
+[Placeholder: review and add any appointments not on the CV (committees, editorial roles, study sections).]{.ph}
+
+**Professional societies and networks**
+
+- Chair, Mentoring Committee, International Society for Environmental Epidemiology, North America Chapter (ISEE-NAC), 2026–present
+- Exposome Ambassador, International Human Exposome Network (IHEN)
+- GeoCAFE Scholar, 2026
+
+**Icahn School of Medicine at Mount Sinai**
+
+- Faculty liaison, Postdoctoral Leadership Committee, Department of Environmental Medicine [Placeholder: start year]{.ph}
+- Lead, Postdoctoral Leadership Committee, Department of Environmental Medicine, 2023–2026
+- Lead mentor, Postdoctoral Grant Accountability and Peer Mentoring Group, 2025–present
+- Organizer and lead facilitator, Coffee & Coding, 2023–2026
+- Co-President, Sinai Tabletop (trainee and postdoctoral community program), 2022–present
+
+**Journal peer review**
+
+*Environmental Health Perspectives*, *The Lancet Planetary Health*, *Landscape and Urban Planning*, *Health & Place*, *Environmental Pollution*, *Environmental Research*, *International Journal of Public Health*, *Urban Forestry & Urban Greening*
+
+## In the media
+
+- [Forget everything you know about aging: here's how to wind back your biological clock](https://www.zmescience.com/science/science-aging-epigenetics/){target="_blank"}. ZME Science, May 2024 (featured study).
+- [The quality of urban green spaces can foster physical activity and reduce obesity among citizens](https://www.uab.cat/web/sala-de-premsa-icta-uab/detall-noticia/the-quality-of-urban-green-spaces-can-foster-physical-activity-and-reduce-obesity-among-citizens-1345819915004.html?detid=1345835345835){target="_blank"}. UAB, February 2021.
+- [New tool allows the measurement of the quality of urban green spaces](https://www.uab.cat/web/newsroom/news-detail/new-tool-allows-the-measurement-of-the-quality-of-urban-green-spaces-1345668003610.html?noticiaid=1345832606615){target="_blank"}. UAB, January 2021.

@@ -1,0 +1,5 @@
+/.quarto/
+/_site/
+.DS_Store
+.newsbot_pr_body.md
+NOTES.md

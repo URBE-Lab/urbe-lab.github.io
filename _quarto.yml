@@ -1,0 +1,53 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "**/*.qmd"
+  resources:
+    - files/
+
+website:
+  title: "URBE Lab"
+  site-url: https://urbe-lab.github.io
+  description: "URBE Lab — urban exposome, urban nature, and healthy aging. Department of Environmental Medicine, Icahn School of Medicine at Mount Sinai."
+  favicon: images/logo-mark.svg
+  search: true
+  sidebar:
+    style: docked
+    title: "URBE"
+    contents:
+      - section: "URBE Lab"
+        contents:
+          - text: Home
+            href: index.qmd
+          - research.qmd
+          - team.qmd
+          - publications.qmd
+          - news.qmd
+          - join.qmd
+          - teaching.qmd
+      - section: "Principal Investigator"
+        contents:
+          - text: "About Pablo"
+            href: pi.qmd
+      - section: "Links"
+        contents:
+          - text: "GitHub"
+            href: https://github.com/URBE-Lab
+            target: _blank
+  page-footer:
+    left: "URBE Lab · Department of Environmental Medicine · Icahn School of Medicine at Mount Sinai · New York, NY"
+    right:
+      - icon: github
+        href: https://github.com/URBE-Lab
+        aria-label: GitHub
+
+format:
+  html:
+    theme:
+      light: [cosmo, styles/light.scss]
+      dark: [cosmo, styles/dark.scss]
+    css: styles/custom.css
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true

@@ -1,0 +1,16 @@
+---
+title: "The Team"
+listing:
+  contents: team/*.qmd
+  type: grid
+  sort: "order"
+  fields: [image, title, subtitle]
+  image-height: 180px
+  grid-columns: 3
+  sort-ui: false
+  filter-ui: false
+---
+
+[Placeholder: one or two sentences about the lab culture, e.g., how the team works together.]{.ph}
+
+Each person has their own page in the `team/` folder of the [lab's GitHub repository](https://github.com/URBE-Lab/urbe-lab.github.io){target="_blank"}; lab members can update their own profile.

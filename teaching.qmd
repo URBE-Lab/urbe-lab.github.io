@@ -1,0 +1,25 @@
+---
+title: "Teaching & mentoring"
+---
+
+## Courses
+
+**Epidemiology II.** MPH program, Icahn School of Medicine at Mount Sinai. Instructor, 2022–present.
+
+**Introduction to R and Python.** MPH program, Icahn School of Medicine at Mount Sinai. Instructor, 2025–present.
+
+[Placeholder: add new courses when public (e.g., EHR epidemiology course, M1 selective), with links to syllabi or materials.]{.ph}
+
+## Workshops and training programs
+
+**Coffee & Coding.** Monthly program on R, data visualization, version control, and analytic troubleshooting for postdocs and trainees in Environmental Medicine. Organizer and lead facilitator, 2023–2026.
+
+**Postdoctoral Grant Accountability & Peer Mentoring Group.** Goals-based peer mentoring for postdocs preparing grant applications. Lead mentor, 2025–present.
+
+## Mentoring
+
+**ISEE-NAC Mentoring Committee.** Chair, 2026–present. The International Society for Environmental Epidemiology North America Chapter runs a year-long structured mentoring program with more than 20 mentoring pods and over 200 participants.
+
+Mentoring is central to how the lab works. At the start of each mentoring relationship, we set explicit, actionable goals together, and the lab supports professional development and career planning alongside technical training.
+
+[Placeholder: optional link to a lab handbook or onboarding guide (e.g., on GitHub).]{.ph}

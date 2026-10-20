@@ -1,0 +1,38 @@
+name: Check for new papers and grants
+
+on:
+  schedule:
+    - cron: "17 13 * * 1"   # Mondays ~9am New York
+  workflow_dispatch:
+    inputs:
+      seed:
+        description: "Seed run: record everything found now as known, draft nothing"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Look for new items
+        run: python scripts/check_news.py ${{ inputs.seed && '--seed' || '' }}
+      - name: Open a pull request for review
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: news-bot/updates
+          delete-branch: true
+          title: "News bot: new items to review"
+          commit-message: "News bot: draft new items"
+          body-path: .newsbot_pr_body.md
+          add-paths: |
+            news/*.qmd
+            publications.qmd
+            data/*.txt

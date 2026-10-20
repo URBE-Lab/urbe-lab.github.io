@@ -1,0 +1,59 @@
+/* URBE Lab, style C1: teal + amber, data-forward. Colors live in light.scss / dark.scss */
+
+body, p, li, blockquote { font-family: "Inter", system-ui, sans-serif; }
+
+/* Placeholders: highlighted so nothing unfinished goes live unnoticed */
+.ph { background: var(--u-ph-bg); color: var(--u-ph-fg); padding: 0.05em 0.35em; border-radius: 3px; font-size: 0.95em; }
+
+/* Monospace labels */
+.kicker, .listing-date, .pub-year .yr, .quarto-grid-item .listing-subtitle {
+  font-family: "DM Mono", ui-monospace, monospace;
+  letter-spacing: 0.06em;
+}
+.kicker { font-size: 0.8rem; color: var(--u-teal); text-transform: uppercase; margin-bottom: 0.4rem; }
+.listing-date { color: var(--u-amber) !important; font-size: 0.85rem; }
+
+/* Sidebar wordmark */
+.sidebar-title { font-family: "Space Grotesk", sans-serif; font-weight: 700; font-size: 1.6rem; letter-spacing: 0.02em; }
+.sidebar-title::after {
+  content: "LAB · NYC"; display: block; font-family: "DM Mono", monospace;
+  font-weight: 400; font-size: 0.7rem; letter-spacing: 0.08em; opacity: 0.8; margin-top: 0.1rem;
+}
+
+/* Home */
+.headline { font-family: "Space Grotesk", sans-serif; font-weight: 700; font-size: clamp(2rem, 4.5vw, 2.9rem); line-height: 1.05; margin: 0.2rem 0 0.6rem; }
+.subheadline { font-size: 1.15rem; color: var(--u-sub); max-width: 40rem; margin-bottom: 1rem; }
+
+/* Research cards: amber top stripe */
+.theme-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 0.9rem; margin: 1.25rem 0 2rem; }
+.theme-card { background: transparent; border: 1px solid var(--u-line); border-top: 3px solid var(--u-amber-line); padding: 0.9rem 1.1rem 0.4rem; }
+.theme-card h3 { margin-top: 0; font-size: 1.1rem; }
+.theme-card p { color: var(--u-sub); }
+
+/* Team: round photos, one ring color */
+.quarto-grid-item.card { border: none; background: transparent; text-align: center; }
+.quarto-grid-item img.thumbnail-image {
+  border-radius: 50%; width: 140px !important; height: 140px !important; object-fit: cover;
+  margin: 1rem auto 0; display: block; border: 3px solid var(--u-teal);
+}
+.quarto-grid-item .card-img-top { background: transparent !important; }
+.quarto-grid-item .listing-subtitle { color: var(--u-teal); font-size: 0.8rem; text-transform: uppercase; }
+
+/* Publications: year column */
+.pub-year { display: grid; grid-template-columns: 4.5rem 1fr; gap: 0 1rem; margin-bottom: 1.4rem; }
+.pub-year .yr { color: var(--u-teal); font-size: 1rem; padding-top: 0.1rem; }
+.pub-year .entries { border-left: 2px solid var(--u-line); padding-left: 1rem; }
+.pub-year .entries p { padding-left: 1.5em; text-indent: -1.5em; margin-bottom: 0.7rem; }
+@media (max-width: 576px) { .pub-year { grid-template-columns: 1fr; } .pub-year .entries { border-left: none; padding-left: 0; } }
+
+/* Sidebar wordmark and tool icons on the dark menu */
+.sidebar-title, .sidebar-title a, .sidebar-title a:hover { color: #5eead4 !important; }
+.sidebar-title::after { color: #cfe7e1; }
+#quarto-sidebar .sidebar-tools-main a, #quarto-sidebar .quarto-color-scheme-toggle .bi { color: #cfe7e1 !important; }
+
+/* News type labels */
+span.listing-categories {
+  font-family: "DM Mono", monospace; font-size: 0.72rem; letter-spacing: 0.05em; text-transform: uppercase;
+  color: var(--u-amber); background: transparent; border: 1px solid var(--u-amber-line); border-radius: 3px; padding: 0.05rem 0.4rem; white-space: nowrap;
+}
+span.listing-date { white-space: nowrap; }

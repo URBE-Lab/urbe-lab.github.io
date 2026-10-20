@@ -1,0 +1,26 @@
+/*-- scss:defaults --*/
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=Inter:wght@400;500;600&family=DM+Mono:wght@400;500&display=swap');
+
+$primary: #5eead4;
+$secondary: #fbbf24;
+$body-bg: #0f1716;
+$body-color: #e6efec;
+$link-color: $primary;
+$font-family-sans-serif: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+$font-family-base: $font-family-sans-serif;
+$font-family-monospace: "DM Mono", ui-monospace, monospace;
+$headings-font-family: "Space Grotesk", "Inter", sans-serif;
+$headings-font-weight: 700;
+$sidebar-bg: #0a1312;
+$sidebar-fg: #a9c9c1;
+$sidebar-hl: #5eead4;
+$footer-bg: #0a1312;
+$footer-fg: #a9c9c1;
+
+/*-- scss:rules --*/
+:root {
+  --u-teal: #5eead4; --u-teal-bg: #132b28;
+  --u-amber: #fbbf24; --u-amber-line: #f59e0b;
+  --u-sub: #a3b3ae; --u-line: #24332f;
+  --u-ph-bg: #4a3d12; --u-ph-fg: #ffe08a;
+}

@@ -1,0 +1,25 @@
+---
+title: "Join us"
+---
+
+We welcome students and researchers interested in urban environments, urban nature, environmental epidemiology, and healthy aging, especially those who enjoy working with geospatial data, electronic health records, and reproducible code.
+
+[Placeholder: state current openings, or "We currently have no funded openings, but we are always happy to hear from motivated people."]{.ph}
+
+## Opportunities
+
+**Master's and PhD students.** [Placeholder: which programs at Icahn Mount Sinai students can come from (e.g., MPH, MS, PhD), and the type of projects available (practicum, thesis, rotation).]{.ph}
+
+**Postdoctoral researchers.** [Placeholder: openings, or support for fellowship applications (e.g., NIH F32, K99).]{.ph}
+
+**Visiting researchers and summer students.** [Placeholder: whether you host visitors and for how long.]{.ph}
+
+## How to get in touch
+
+Email [Pablo Knobel](mailto:pablo.knobel@mssm.edu) with:
+
+1. A short note on why the lab interests you and what you would like to work on
+2. Your CV
+3. [Placeholder: anything else, e.g., a writing or code sample, availability, funding status]{.ph}
+
+[Placeholder: optional section on what to expect in the lab (mentoring approach, meetings, code practices), e.g., drawn from the mentoring philosophy on the PI page.]{.ph}

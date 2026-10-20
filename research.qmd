@@ -1,0 +1,54 @@
+---
+title: "Research"
+---
+
+Our work is grounded in the **exposome framework**: the idea that health is shaped by the full set of environmental exposures a person experiences over the life course. We focus on cities, and on urban nature in particular, treating it as a multidimensional exposure (biodiversity, accessibility, quality, and how people experience it) rather than a single greenness score.
+
+::: theme-grid
+
+::: theme-card
+### Measuring urban nature at scale
+We build and validate tools that ask not just *whether* nature is present, but whether it is the kind of nature that matters for health. This includes the RECITAL urban green space quality assessment tool and a satellite-based deep learning approach to map green space quality across the continental United States.
+:::
+
+::: theme-card
+### Urban nature and healthy aging
+We link novel nature metrics, including bird biodiversity, to cardiometabolic risk, frailty, biological aging, and cognitive health using large-scale electronic health records.
+:::
+
+::: theme-card
+### The urban exposome and disparities
+We evaluate how natural, built, and social environments jointly shape health trajectories, and how unequal exposures contribute to disparities in healthy aging.
+:::
+
+::: theme-card
+### Air pollution mixtures
+We look beyond PM~2.5~ mass to its chemical components and sources, including exposures related to the World Trade Center disaster, and their links to cardiometabolic and cardiovascular outcomes, even below current regulatory thresholds.
+:::
+
+::: theme-card
+### Collaborative studies
+We provide epidemiologic and geospatial support to clinician-led studies, for example on the role of air pollution in liver transplant outcomes.
+:::
+
+:::
+
+## Methods we use
+
+Geospatial exposure assessment · electronic health records · environmental mixture methods · satellite imagery and deep learning · spatial and causal epidemiology
+
+## Current projects
+
+[Placeholder: add a short card or paragraph per active project, with images/maps if available. Suggested from current funding below.]{.ph}
+
+## Funding
+
+**Current**
+
+- *From Tweets to Thoughts: Studying Bird Biodiversity and Cognitive Health in NYC.* NIEHS P30 ES023515 pilot. PI: Knobel. 2025–2027.
+- *Mapping Urban Green Space Quality across the CONUS.* NIA U24AG088894. Co-I: Knobel. 2025–2026.
+- *From Smog to Survival: Air Pollution's Hidden Role in Transplant Need, Donor Graft Quality, and Outcomes.* NIEHS P30 ES023515 pilot. Co-I: Knobel. 2026–2027.
+
+**Past**
+
+- *The Association Between the Built and Social Environment and Phenotypic Age Acceleration.* NIEHS P30 ES023515 pilot. PI: Knobel. 2022–2024.
