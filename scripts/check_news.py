@@ -96,6 +96,16 @@ def dois_crossref_orcid(orcid, since):
         yield norm_doi(it["DOI"])
 
 
+def dois_openalex(orcid, since):
+    params = urllib.parse.urlencode({
+        "filter": f"author.orcid:{orcid},from_publication_date:{since}",
+        "per_page": 200, "select": "doi", "mailto": CFG.get("contact_email", ""),
+    })
+    for it in get_json(f"https://api.openalex.org/works?{params}")["results"]:
+        if it.get("doi"):
+            yield norm_doi(it["doi"])
+
+
 def dois_pubmed(query, since):
     base = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/"
     params = urllib.parse.urlencode({
@@ -226,6 +236,7 @@ def main():
     if orcid:
         found |= set(safe("ORCID", dois_orcid, orcid))
         found |= set(safe("Crossref", dois_crossref_orcid, orcid, since))
+        found |= set(safe("OpenAlex", dois_openalex, orcid, since))
 
     grants = {}
     nih = CFG.get("nih_pi")

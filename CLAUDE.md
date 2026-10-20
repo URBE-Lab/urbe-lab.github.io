@@ -43,10 +43,11 @@ Public website for the URBE Lab (PI: Pablo Knobel, PhD, Instructor, Department o
 
 ## News bot
 
-`.github/workflows/check-news.yml` runs weekly (Mondays) and on demand. `scripts/check_news.py` (standard-library Python) searches PubMed, ORCID (`0000-0001-6902-0286`), and Crossref for new papers, and NIH RePORTER for new awards with Pablo as PI. It drafts news items and publication entries and opens a PR for review.
+`.github/workflows/check-news.yml` runs weekly (Mondays) and on demand. `scripts/check_news.py` (standard-library Python) searches PubMed, ORCID (`0000-0001-6902-0286`), Crossref, and OpenAlex (by ORCID) for new papers, and NIH RePORTER for new awards with Pablo as PI. It drafts news items and publication entries and opens a PR for review.
 
 - Seed run (first time): run the workflow with **seed** checked so existing papers are recorded as known, not announced.
 - Lead (first/last author) → `Publication`; otherwise → `Collaborator paper`. Co-first/senior marks and title capitalization need manual fixes in the PR.
+- Google Scholar not used (no API; blocks bots). OpenAlex covers most of its extra items.
 - Not covered: non-NIH grants, Co-I roles, P30 pilot sub-awards, conferences, awards (add manually).
 - Status (Oct 2026): logic tested offline with mock data only; first live run not yet done.
 
