@@ -34,12 +34,12 @@ Public website for the URBE Lab (PI: Pablo Knobel, PhD, Instructor, Department o
 
 ## Design (style "C1", chosen Oct 2026)
 
-- Dark teal sidebar and footer (`#10292a`), text wordmark "URBE" with a "LAB · NYC" monospace subline.
+- Dark teal sidebar and footer (`#10292a`) with the URBE • lab logo at the top.
 - Colors: teal `#0f766e` (links, labels), amber `#b45309` text / `#f59e0b` lines (accents). Dark mode via the toggle.
 - Fonts (Google Fonts): Space Grotesk (headings), Inter (body), DM Mono (labels, dates, years, roles).
 - Components: monospace kicker labels; research cards = white with thin border and amber top stripe; team photos round with one teal ring for everyone; publications with a year column; news dates as `YYYY-MM` in amber monospace and type labels as amber outlined tags.
 - No stat tiles (decided against for now).
-- **Logo:** not decided. Four hand-drawn candidate marks were traced to SVG in a separate chat; the favicon `images/logo-mark.svg` is a placeholder.
+- **Logo:** final files in `images/logo/`: `urbe-logo-*` (mark + text), `urbe-wordmark-*` (text only), `urbe-mark-*` (mark only), favicons. Sidebar uses `urbe-logo-dark.svg` (menu is always dark); favicon `favicon.svg` + PNG fallbacks.
 
 ## News bot
 
@@ -55,5 +55,4 @@ Public website for the URBE Lab (PI: Pablo Knobel, PhD, Instructor, Department o
 
 - Placeholders: home headline/subheadline and tagline, department link, lab culture text, team members and photos, Join page details, PI photo, links (Google Scholar, Mount Sinai profile, LinkedIn/Bluesky), CV PDF, faculty liaison start year, course additions.
 - Publication entries to verify against PubMed (from CV): Environ Int 2025 vol. 185 and Ecotoxicol Environ Saf 2025 vol. 259 (volumes look like 2024/2023), Health & Place 2022 first-author name ("Núñez" vs "Fernández-Núñez"), J Urban Health 2025 pages "1–10"; four entries end in "et al."; no DOIs yet.
-- Logo decision.
 - Check Mount Sinai web/branding policy for lab sites.

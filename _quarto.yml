@@ -10,11 +10,12 @@ website:
   title: "URBE Lab"
   site-url: https://urbe-lab.github.io
   description: "URBE Lab — urban exposome, urban nature, and healthy aging. Department of Environmental Medicine, Icahn School of Medicine at Mount Sinai."
-  favicon: images/logo-mark.svg
+  favicon: images/logo/favicon.svg
   search: true
   sidebar:
     style: docked
-    title: "URBE"
+    logo: images/logo/urbe-logo-dark.svg
+    title: "URBE Lab"
     contents:
       - section: "URBE Lab"
         contents:
@@ -48,6 +49,10 @@ format:
       light: [cosmo, styles/light.scss]
       dark: [cosmo, styles/dark.scss]
     css: styles/custom.css
+    include-in-header:
+      text: |
+        <link rel="icon" type="image/png" sizes="32x32" href="/images/logo/favicon-32.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="/images/logo/favicon-180.png">
     toc: false
     smooth-scroll: true
     link-external-newwindow: true
