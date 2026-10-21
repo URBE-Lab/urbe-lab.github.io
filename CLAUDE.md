@@ -39,7 +39,7 @@ Public website for the URBE Lab (PI: Pablo Knobel, PhD, Instructor, Department o
 - Fonts (Google Fonts): Space Grotesk (headings), Inter (body), DM Mono (labels, dates, years, roles).
 - Components: monospace kicker labels; research cards = white with thin border and amber top stripe; team photos round with one teal ring for everyone; publications with a year column; news dates as `YYYY-MM` in amber monospace and type labels as amber outlined tags.
 - No stat tiles (decided against for now).
-- **Logo:** final files in `images/logo/` (wordmark in light/dark/black/white, mark in teal/mint/black, favicons). Sidebar uses `urbe-logo-dark.svg` (menu is always dark); favicon `favicon.svg` + PNG fallbacks.
+- **Logo:** final files in `images/logo/`: `urbe-logo-*` (mark + text), `urbe-wordmark-*` (text only), `urbe-mark-*` (mark only), favicons. Sidebar uses `urbe-logo-dark.svg` (menu is always dark); favicon `favicon.svg` + PNG fallbacks.
 
 ## News bot
 
