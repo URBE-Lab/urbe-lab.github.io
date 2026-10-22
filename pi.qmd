@@ -12,8 +12,9 @@ subtitle: "Principal Investigator · Instructor, Department of Environmental Med
 - [Email](mailto:pablo.knobel@mssm.edu)
 - [Placeholder: Google Scholar]{.ph}
 - [ORCID](https://orcid.org/0000-0001-6902-0286)
-- [Placeholder: Mount Sinai profile]{.ph}
-- [Placeholder: LinkedIn / Bluesky]{.ph}
+- [Mount Sinai profile](https://profiles.icahn.mssm.edu/pablo-knobel)
+- [Bluesky](https://bsky.app/profile/pabloknobel.bsky.social)
+- [Placeholder: LinkedIn]{.ph}
 - [Placeholder: CV (PDF)]{.ph}
 :::
 
