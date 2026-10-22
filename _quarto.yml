@@ -26,6 +26,10 @@ website:
           - team.qmd
           - publications.qmd
           - join.qmd
+      - section: "Resources"
+        contents:
+          - resources/frameworks.qmd
+          - resources/data-sources.qmd
       - section: "Principal Investigator"
         contents:
           - text: "About Pablo"

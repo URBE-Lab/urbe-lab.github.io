@@ -27,6 +27,7 @@ Public website for the URBE Lab (PI: Pablo Knobel, PhD, Instructor, Department o
 | `publications.qmd` | APA list grouped in year blocks (`::::: pub-year` / `::: yr` / `:::: entries`), PI name in bold, entries alphabetical within year |
 | `news/*.qmd` | News items, kept but not rendered (News page removed Oct 2026; `!news/` in `_quarto.yml`) |
 | `join.qmd` | Opportunities (Teaching page removed Oct 2026) |
+| `resources/*.qmd` | Resources sidebar section: Framework references, Data sources (placeholders) |
 | `pi.qmd` | "About Pablo": bio, appointments, education, honors, service and appointments, media |
 | `styles/light.scss`, `styles/dark.scss` | Theme colors and fonts (Bootstrap/Quarto variables + `--u-*` CSS variables) |
 | `styles/custom.css` | Shared component styles |
