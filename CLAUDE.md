@@ -21,12 +21,12 @@ Public website for the URBE Lab (PI: Pablo Knobel, PhD, Instructor, Department o
 | Path | Purpose |
 |---|---|
 | `_quarto.yml` | Site config and sidebar menu |
-| `index.qmd` | Home: kicker label, headline + subheadline (placeholders), intro, latest 4 news |
+| `index.qmd` | Home: kicker label, headline + subheadline (placeholders), intro |
 | `research.qmd` | Research themes (`.theme-grid` / `.theme-card`), methods, funding |
 | `team.qmd`, `team/*.qmd` | Team grid; one file per person; `order:` sets position; `team/_template.qmd` for new people |
 | `publications.qmd` | APA list grouped in year blocks (`::::: pub-year` / `::: yr` / `:::: entries`), PI name in bold, entries alphabetical within year |
-| `news.qmd`, `news/*.qmd` | News table with Type column (`categories:`); `news/_template.qmd` lists allowed types: Publication, Collaborator paper, Conference, Grant, Award, Appointment, Lab |
-| `join.qmd`, `teaching.qmd` | Opportunities; courses and mentoring |
+| `news/*.qmd` | News items, kept but not rendered (News page removed Oct 2026; `!news/` in `_quarto.yml`) |
+| `join.qmd` | Opportunities (Teaching page removed Oct 2026) |
 | `pi.qmd` | "About Pablo": bio, appointments, education, honors, service and appointments, media |
 | `styles/light.scss`, `styles/dark.scss` | Theme colors and fonts (Bootstrap/Quarto variables + `--u-*` CSS variables) |
 | `styles/custom.css` | Shared component styles |

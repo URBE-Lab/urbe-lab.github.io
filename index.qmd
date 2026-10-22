@@ -1,17 +1,5 @@
 ---
 pagetitle: "URBE Lab"
-listing:
-  id: latest-news
-  contents: news/*.qmd
-  sort: "date desc"
-  type: table
-  max-items: 4
-  fields: [date, categories, title]
-  field-display-names:
-    categories: Type
-  date-format: "YYYY-MM"
-  sort-ui: false
-  filter-ui: false
 ---
 
 ::: kicker
@@ -31,10 +19,3 @@ We develop new ways to measure urban nature at scale and link them, together wit
 We are based in the Department of Environmental Medicine at the Icahn School of Medicine at Mount Sinai in New York City. [Placeholder: add link to the department page]{.ph}
 
 [Our research →](research.qmd) · [Meet the team →](team.qmd) · [Join us →](join.qmd)
-
-## Latest news
-
-::: {#latest-news}
-:::
-
-[All news →](news.qmd)
