@@ -29,10 +29,9 @@ jobs:
         with:
           branch: news-bot/updates
           delete-branch: true
-          title: "News bot: new items to review"
-          commit-message: "News bot: draft new items"
+          title: "Publications bot: new items to review"
+          commit-message: "Publications bot: draft new entries"
           body-path: .newsbot_pr_body.md
           add-paths: |
-            news/*.qmd
             publications.qmd
             data/*.txt

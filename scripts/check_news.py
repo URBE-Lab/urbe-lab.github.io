@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
-"""News bot for the URBE Lab website.
+"""Publications bot for the URBE Lab website.
 
 Looks for new papers (ORCID, Crossref, PubMed) and new NIH awards (NIH RePORTER),
-then drafts news items and publication entries. It never publishes anything:
+then drafts publication entries and lists new awards. It never publishes anything:
 the GitHub workflow opens a pull request for a person to review and merge.
 
 Settings live in news-bot.json. Already-seen items live in data/known_*.txt.
 First run (or --seed): records everything currently found as "known" and
-drafts nothing, so the existing record does not flood the news page.
+drafts nothing, so the existing record is not re-added.
 
 Standard library only, so it runs on a plain GitHub runner.
 """
@@ -60,12 +60,6 @@ def read_set(path):
 def write_set(path, items):
     DATA.mkdir(exist_ok=True)
     path.write_text("\n".join(sorted(items)) + "\n")
-
-
-def slugify(text, n=6):
-    t = unicodedata.normalize("NFKD", text).encode("ascii", "ignore").decode()
-    words = re.findall(r"[a-z0-9]+", t.lower())
-    return "-".join(words[:n]) or "item"
 
 
 def strip_tags(s):
@@ -207,19 +201,6 @@ def add_to_publications(entry, year):
     p.write_text(s)
 
 
-def write_news(date, kind, title, description, body):
-    path = ROOT / "news" / f"{date:%Y-%m}-{slugify(title)}.qmd"
-    i = 2
-    while path.exists():
-        path = path.with_name(f"{date:%Y-%m}-{slugify(title)}-{i}.qmd")
-        i += 1
-    front = (f"---\n# Drafted by scripts/check_news.py. Review the wording before merging.\n"
-             f"title: {json.dumps(title)}\ndate: {date.isoformat()}\ncategories: [{kind}]\n"
-             f"description: {json.dumps(description)}\n---\n\n")
-    path.write_text(front + body + "\n")
-    return path.relative_to(ROOT)
-
-
 # ---------- main ----------
 
 def main():
@@ -260,7 +241,7 @@ def main():
         write_set(KNOWN_DOIS, (known_dois or set()) | found)
         write_set(KNOWN_GRANTS, (known_grants or set()) | set(grants))
         lines.append(f"Seed run: recorded {len(found)} papers and {len(grants)} NIH projects "
-                     "as already known. No news drafted.")
+                     "as already known. Nothing drafted.")
     else:
         new_dois = sorted(found - known_dois)
         for doi in new_dois:
@@ -284,37 +265,27 @@ def main():
             entry = apa_entry(rec, doi)
             journal = strip_tags((rec.get("container-title") or [""])[0])
             short = strip_tags((rec.get("title") or [""])[0])
-            news = write_news(date, kind, f"New paper: {short}" if lead else f"Collaborator paper: {short}",
-                              f"Published in {journal}.", entry)
             add_to_publications(entry, date.year)
             known_dois.add(doi)
-            lines.append(f"- **{kind}** — {short} ({journal}, {date:%Y-%m}). Draft: `{news}`. "
+            lines.append(f"- **{kind}** — {short} ({journal}, {date:%Y-%m}). Added to `publications.qmd`. "
                          "Check: title capitalization, co-first/senior marks, author list.")
         new_grants = sorted(set(grants) - known_grants)
         for key in new_grants:
             r = grants[key]
             title = (r.get("project_title") or key).strip()
             ic = (r.get("agency_ic_admin") or {}).get("abbreviation", "NIH")
-            raw = r.get("award_notice_date") or r.get("project_start_date") or ""
-            try:
-                date = dt.date.fromisoformat(raw[:10])
-            except ValueError:
-                date = dt.date.today()
-            news = write_news(date, "Grant", f"New {ic} award: {title}",
-                              f"Pablo Knobel is PI on a new {ic}-funded project ({key}).",
-                              f"*{title}*. {ic} {key}.")
             known_grants.add(key)
-            lines.append(f"- **Grant** — {title} ({ic} {key}). Draft: `{news}`. "
-                         "Check: title capitalization (RePORTER titles are often all caps).")
+            lines.append(f"- **Grant** — {title} ({ic} {key}). Not added anywhere: "
+                         "add it to Funding in `research.qmd` by hand if wanted.")
         write_set(KNOWN_DOIS, known_dois)
         write_set(KNOWN_GRANTS, known_grants)
         if not new_dois and not new_grants:
             lines.append("Nothing new found.")
 
-    body = ["## News bot results", ""] + lines
+    body = ["## Publications bot results", ""] + lines
     if warnings:
         body += ["", "### Warnings"] + [f"- {w}" for w in warnings]
-    body += ["", "Edit the drafted files in this pull request if needed, then merge to publish. "
+    body += ["", "Edit the drafted entries in this pull request if needed, then merge to publish. "
              "Close it to discard."]
     PR_BODY.write_text("\n".join(body) + "\n")
     print("\n".join(body))
