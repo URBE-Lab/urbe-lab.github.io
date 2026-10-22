@@ -3,6 +3,7 @@ project:
   output-dir: _site
   render:
     - "**/*.qmd"
+    - "!news/"
   resources:
     - files/
 
@@ -24,9 +25,7 @@ website:
           - research.qmd
           - team.qmd
           - publications.qmd
-          - news.qmd
           - join.qmd
-          - teaching.qmd
       - section: "Principal Investigator"
         contents:
           - text: "About Pablo"

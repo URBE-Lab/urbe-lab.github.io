@@ -4,7 +4,9 @@ title: "Publications"
 
 Peer-reviewed publications from the PI's record, newest first (APA style). **Knobel, P.** in bold; \* co-first author.
 
-[Placeholder: add links to Google Scholar and ORCID, and DOIs for each entry.]{.ph}
+Full record: [Google Scholar](https://scholar.google.com/citations?user=WFf1FOoAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0001-6902-0286)
+
+[Placeholder: add DOIs for each entry.]{.ph}
 
 ::::: pub-year
 ::: yr
@@ -12,6 +14,8 @@ Peer-reviewed publications from the PI's record, newest first (APA style). **Kno
 :::
 
 :::: entries
+Krasnov, H., Hung, W., **Knobel, P.**, Kloog, I., Ko, F., Thompson, H., Colicino, E., Teitelbaum, S. L., Just, A. C., & Yitshak-Sade, M. (2026). Urban exposures, frailty, and mental illness in World Trade Center Health Program responders. *Nature Communications, 17*, 9449.
+
 Krasnov, H., **Knobel, P.**, Hsu, H.-H. L., Teitelbaum, S. L., McLaughlin, M. A., Just, A. C., Kloog, I., & Yitshak-Sade, M. (2026). The association between long-term exposure to PM~2.5~ constituents and diabetes incidence and blood glucose levels among World Trade Center Health Program general responders. *American Journal of Epidemiology, 195*(2), 497–504.
 
 Royuela, O., Oliva, F., Bucker, J., De Córdoba Gil, C., Fontana-McNally, M., Gatto, D. L., Guinart, D., Knobel-Freud, H., **Knobel, P.**, Lupo, W., Macias, C., Montero, M., Moreno-Alcázar, A., Amann, B. L., Valiente-Gómez, A., & Hogg, B. (2026). Stressful life events, PTSD symptoms and mental health in people living with HIV: Correlates of trauma in people with HIV. *Journal of Psychosomatic Research*, 112545.
@@ -28,7 +32,7 @@ Hwang, S. A., Singhvi, A., Patil, L., Gohari, K., Yitshak-Sade, M., Colicino, E.
 
 **Knobel, P.**, Colicino, E., Kloog, I., Litke, R., Lane, K., Federman, A., Mobbs, C., & Yitshak-Sade, M. (2025). Social vulnerability and biological aging in New York City: An electronic health records-based study. *Journal of Urban Health, 102*, 1–10.
 
-**Knobel, P.**, Singhvi, A., Krasnov, H., Colicino, E., Kloog, I., Litke, R., & Yitshak-Sade, M. (2025). Beyond greenness: Multidimensional urban nature profiles and atherosclerotic cardiovascular risk. *Environment International, 185*, 110033.
+**Knobel, P.**, Singhvi, A., Krasnov, H., Colicino, E., Kloog, I., Litke, R., & Yitshak-Sade, M. (2025). Beyond greenness: Multidimensional urban nature profiles and atherosclerotic cardiovascular risk. *Environment International, 207*, 110033.
 
 Krasnov, H., Ambalal Patel, K., **Knobel, P.**, Hsu, H.-H. L., Teitelbaum, S. L., McLaughlin, M. A., Just, A. C., & Yitshak-Sade, M. (2025). World Trade Center exposures and cardiometabolic risk among WTC Health Program general responders. *American Journal of Public Health, 115*(7), 1120–1128.
 
@@ -40,7 +44,7 @@ Ma, T.\*, **Knobel, P.**\*, Hadley, M., Colicino, E., Amini, H., Federman, A., S
 
 Sakhvidi, M. J. Z., Browning, M. H. E. M., Samuelsson, K., Labib, S. M., Psyllidis, A., Ameagah, A. K., Astell-Burt, T., **Knobel, P.**, et al. (2025). Methodological guidance for selecting buffers in greenspace and health studies. *The Lancet Planetary Health, 9*(3), e198–e210.
 
-Wu, J., **Knobel, P.**, He, M. Z., Kloog, I., Just, A. C., Gutiérrez-Avila, I., Colicino, E., Téllez-Rojo, M. M., Pizano-Zárate, M. L., Tamayo-Ortiz, M., Cantoral, A., Soria-Contreras, D. C., Baccarelli, A. A., Wright, R. O., & Yitshak-Sade, M. (2025). Air pollution, temperature, and HbA1c levels among children in Mexico City, Mexico. *Ecotoxicology and Environmental Safety, 259*, 115072.
+Wu, J., **Knobel, P.**, He, M. Z., Kloog, I., Just, A. C., Gutiérrez-Avila, I., Colicino, E., Téllez-Rojo, M. M., Pizano-Zárate, M. L., Tamayo-Ortiz, M., Cantoral, A., Soria-Contreras, D. C., Baccarelli, A. A., Wright, R. O., & Yitshak-Sade, M. (2025). Air pollution, temperature, and HbA1c levels among children in Mexico City, Mexico. *Ecotoxicology and Environmental Safety, 307*, 115072.
 ::::
 :::::
 
@@ -108,6 +112,8 @@ Zaldo-Aubanell, Q., Serra, I., Bach, A., **Knobel, P.**, Campillo-i-López, F., 
 :::
 
 :::: entries
+**Knobel, P.**, Dadvand, P., & Maneja, R. (2019). A systematic review of multi-dimensional quality assessment tools for urban green spaces. *Health & Place, 59*, 102198.
+
 Miralles-Guasch, C., Dopico, J., Delclòs-Alió, X., **Knobel, P.**, Marquet, O., Maneja-Zaragoza, R., Schipperijn, J., & Vich, G. (2019). Natural landscape, infrastructure, and health: The physical activity implications of urban green space composition among the elderly. *International Journal of Environmental Research and Public Health, 16*(20), 3986.
 ::::
 :::::

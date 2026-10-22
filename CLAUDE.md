@@ -21,16 +21,16 @@ Public website for the URBE Lab (PI: Pablo Knobel, PhD, Instructor, Department o
 | Path | Purpose |
 |---|---|
 | `_quarto.yml` | Site config and sidebar menu |
-| `index.qmd` | Home: kicker label, headline + subheadline (placeholders), intro, latest 4 news |
+| `index.qmd` | Home: kicker label, headline + subheadline (placeholders), intro |
 | `research.qmd` | Research themes (`.theme-grid` / `.theme-card`), methods, funding |
 | `team.qmd`, `team/*.qmd` | Team grid; one file per person; `order:` sets position; `team/_template.qmd` for new people |
 | `publications.qmd` | APA list grouped in year blocks (`::::: pub-year` / `::: yr` / `:::: entries`), PI name in bold, entries alphabetical within year |
-| `news.qmd`, `news/*.qmd` | News table with Type column (`categories:`); `news/_template.qmd` lists allowed types: Publication, Collaborator paper, Conference, Grant, Award, Appointment, Lab |
-| `join.qmd`, `teaching.qmd` | Opportunities; courses and mentoring |
+| `news/*.qmd` | News items, kept but not rendered (News page removed Oct 2026; `!news/` in `_quarto.yml`) |
+| `join.qmd` | Opportunities (Teaching page removed Oct 2026) |
 | `pi.qmd` | "About Pablo": bio, appointments, education, honors, service and appointments, media |
 | `styles/light.scss`, `styles/dark.scss` | Theme colors and fonts (Bootstrap/Quarto variables + `--u-*` CSS variables) |
 | `styles/custom.css` | Shared component styles |
-| `scripts/check_news.py`, `news-bot.json`, `data/known_*.txt` | News bot (see below) |
+| `scripts/check_news.py`, `news-bot.json`, `data/known_*.txt` | Publications bot (see below) |
 
 ## Design (style "C1", chosen Oct 2026)
 
@@ -41,12 +41,12 @@ Public website for the URBE Lab (PI: Pablo Knobel, PhD, Instructor, Department o
 - No stat tiles (decided against for now).
 - **Logo:** final files in `images/logo/`: `urbe-logo-*` (mark + text), `urbe-wordmark-*` (text only), `urbe-mark-*` (mark only), favicons. Sidebar uses `urbe-logo-dark.svg` (menu is always dark); favicon `favicon.svg` + PNG fallbacks.
 
-## News bot
+## Publications bot
 
-`.github/workflows/check-news.yml` runs weekly (Mondays) and on demand. `scripts/check_news.py` (standard-library Python) searches PubMed, ORCID (`0000-0001-6902-0286`), Crossref, and OpenAlex (by ORCID) for new papers, and NIH RePORTER for new awards with Pablo as PI. It drafts news items and publication entries and opens a PR for review.
+`.github/workflows/check-news.yml` runs weekly (Mondays) and on demand. `scripts/check_news.py` (standard-library Python) searches PubMed, ORCID (`0000-0001-6902-0286`), Crossref, and OpenAlex (by ORCID) for new papers, and NIH RePORTER for new awards with Pablo as PI. It adds publication entries to `publications.qmd`, lists new NIH awards in the PR body (not added anywhere), and opens a PR for review. News drafting removed Oct 2026.
 
-- Seed run (first time): run the workflow with **seed** checked so existing papers are recorded as known, not announced.
-- Lead (first/last author) → `Publication`; otherwise → `Collaborator paper`. Co-first/senior marks and title capitalization need manual fixes in the PR.
+- Seed run (first time): run the workflow with **seed** checked so existing papers are recorded as known, not re-added. Known DOIs missing from the page must be added by hand.
+- Co-first/senior marks and title capitalization need manual fixes in the PR.
 - Google Scholar not used (no API; blocks bots). OpenAlex covers most of its extra items.
 - Not covered: non-NIH grants, Co-I roles, P30 pilot sub-awards, conferences, awards (add manually).
 - Status (Oct 2026): logic tested offline with mock data only; first live run not yet done.
