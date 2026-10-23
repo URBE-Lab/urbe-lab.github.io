@@ -3,7 +3,6 @@ project:
   output-dir: _site
   render:
     - "**/*.qmd"
-    - "!news/"
   resources:
     - files/
 

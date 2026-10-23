@@ -1,8 +1,0 @@
----
-title: "Mapping green space quality across the US at ISEE-NAC"
-date: 2026-06-03
-categories: [Conference]
-description: "Our work mapping green space quality across the continental US was presented at the ISEE North America Chapter meeting."
----
-
-Pablo presented "Mapping Urban Green Space Quality across the Continental U.S." at the ISEE North America Chapter (ISEE-NAC) meeting. The project uses satellite imagery and deep learning to score green space quality nationwide.

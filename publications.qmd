@@ -40,7 +40,7 @@ Krasnov, H., Sachdev, K., **Knobel, P.**, Colicino, E., & Yitshak-Sade, M. (2025
 
 Wu, J., **Knobel, P.**, He, M. Z., Kloog, I., Just, A. C., Gutiérrez-Avila, I., Colicino, E., Téllez-Rojo, M. M., Pizano-Zárate, M. L., Tamayo-Ortiz, M., Cantoral, A., Soria-Contreras, D. C., Baccarelli, A. A., Wright, R. O., & Yitshak-Sade, M. (2025). Air pollution, temperature, and HbA1c levels among children in Mexico City, Mexico. *Ecotoxicology and Environmental Safety, 307*, 119424. <https://doi.org/10.1016/j.ecoenv.2025.119424>
 
-Zare Sakhvidi, M. J., Browning, M. H. E. M., Samuelsson, K., Labib, S. M., Psyllidis, A., Amegah, A. K., Astell-Burt, T., Bach, A., Jerrett, M., Bratman, G. N., van den Bosch, M., de Hoogh, K., de Vries, S., Dzhambov, A. M., Fallah Madvari, R., Feng, X., Fernandes, A., Fuertes, E., Giannico, V., . . . Dadvand, P. (2025). Methodological guidance for selecting buffers in greenspace–health studies. *The Lancet Planetary Health, 9*(11), 101370. <https://doi.org/10.1016/j.lanplh.2025.101370>
+Zare Sakhvidi, M. J., Browning, M. H. E. M., Samuelsson, K., Labib, S. M., Psyllidis, A., Amegah, A. K., Astell-Burt, T., Bach, A., Jerrett, M., Bratman, G. N., van den Bosch, M., de Hoogh, K., de Vries, S., Dzhambov, A. M., Fallah Madvari, R., Feng, X., Fernandes, A., Fuertes, E., Giannico, V., . . . **Knobel, P.**, . . . Dadvand, P. (2025). Methodological guidance for selecting buffers in greenspace–health studies. *The Lancet Planetary Health, 9*(11), 101370. <https://doi.org/10.1016/j.lanplh.2025.101370>
 ::::
 :::::
 

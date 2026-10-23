@@ -20,8 +20,6 @@ body, p, li, blockquote { font-family: "Inter", system-ui, sans-serif; }
 .sidebar-title > a { position: absolute !important; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
 
 /* Home */
-.headline { font-family: "Space Grotesk", sans-serif; font-weight: 700; font-size: clamp(2rem, 4.5vw, 2.9rem); line-height: 1.05; margin: 0.2rem 0 0.6rem; }
-.subheadline { font-size: 1.15rem; color: var(--u-sub); max-width: 40rem; margin-bottom: 1rem; }
 
 /* Research cards: amber top stripe */
 .theme-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 0.9rem; margin: 1.25rem 0 2rem; }

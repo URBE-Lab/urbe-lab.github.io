@@ -21,11 +21,10 @@ Public website for the URBE Lab (PI: Pablo Knobel, PhD, Instructor, Department o
 | Path | Purpose |
 |---|---|
 | `_quarto.yml` | Site config and sidebar menu |
-| `index.qmd` | Home: kicker label, headline + subheadline (placeholders), intro |
+| `index.qmd` | Home: kicker label and intro (no headline or subheadline: Pablo's choice) |
 | `research.qmd` | Research themes (`.theme-grid` / `.theme-card`), methods, funding |
 | `team.qmd`, `team/*.qmd` | Team grid; one file per person; `order:` sets position; `team/_template.qmd` for new people |
 | `publications.qmd` | APA list grouped in year blocks (`::::: pub-year` / `::: yr` / `:::: entries`), PI name in bold, entries alphabetical within year |
-| `news/*.qmd` | News items, kept but not rendered (News page removed Oct 2026; `!news/` in `_quarto.yml`) |
 | `join.qmd` | Opportunities (Teaching page removed Oct 2026) |
 | `resources/*.qmd` | Resources sidebar section: Framework references, Data sources (placeholders) |
 | `pi.qmd` | "About Pablo": bio, appointments, education, honors, service and appointments, media |
@@ -54,6 +53,6 @@ Public website for the URBE Lab (PI: Pablo Knobel, PhD, Instructor, Department o
 
 ## Open items
 
-- Placeholders: home headline/subheadline and tagline, department link, lab culture text, team members and photos, Join page details, PI photo, CV PDF, faculty liaison start year, Resources page content. No LinkedIn or Bluesky links (Pablo's choice).
+- Placeholders: lab culture text, team members and photos, Join page details, PI photo, CV PDF, faculty liaison start year, Resources page content. No LinkedIn or Bluesky links (Pablo's choice).
 - Publications checked against Crossref (Oct 2026): every entry has a DOI; author lists are APA 7 (up to 20 authors, then ". . ." and the last author).
-- Check Mount Sinai web/branding policy for lab sites.
+- Mount Sinai Website Governance policy (checked Oct 2026): independent sites showing Mount Sinai affiliation need explicit permission from Digital Marketing and Branding; questions to Conflicts.of.Interest@mssm.edu. Permission not yet requested. Do not use Mount Sinai logos.
