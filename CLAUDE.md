@@ -27,6 +27,7 @@ Public website for the URBE Lab (PI: Pablo Knobel, PhD, Instructor, Department o
 | `publications.qmd` | APA list grouped in year blocks (`::::: pub-year` / `::: yr` / `:::: entries`), PI name in bold, entries alphabetical within year |
 | `news/*.qmd` | News items, kept but not rendered (News page removed Oct 2026; `!news/` in `_quarto.yml`) |
 | `join.qmd` | Opportunities (Teaching page removed Oct 2026) |
+| `resources/*.qmd` | Resources sidebar section: Framework references, Data sources (placeholders) |
 | `pi.qmd` | "About Pablo": bio, appointments, education, honors, service and appointments, media |
 | `styles/light.scss`, `styles/dark.scss` | Theme colors and fonts (Bootstrap/Quarto variables + `--u-*` CSS variables) |
 | `styles/custom.css` | Shared component styles |
@@ -53,6 +54,6 @@ Public website for the URBE Lab (PI: Pablo Knobel, PhD, Instructor, Department o
 
 ## Open items
 
-- Placeholders: home headline/subheadline and tagline, department link, lab culture text, team members and photos, Join page details, PI photo, links (Google Scholar, Mount Sinai profile, LinkedIn/Bluesky), CV PDF, faculty liaison start year, course additions.
-- Publication entries to verify against PubMed (from CV): Environ Int 2025 vol. 185 and Ecotoxicol Environ Saf 2025 vol. 259 (volumes look like 2024/2023), Health & Place 2022 first-author name ("Núñez" vs "Fernández-Núñez"), J Urban Health 2025 pages "1–10"; four entries end in "et al."; no DOIs yet.
+- Placeholders: home headline/subheadline and tagline, department link, lab culture text, team members and photos, Join page details, PI photo, CV PDF, faculty liaison start year, Resources page content. No LinkedIn or Bluesky links (Pablo's choice).
+- Publication entries to verify against PubMed (from CV): Health & Place 2022 first-author name ("Núñez" vs "Fernández-Núñez"), J Urban Health 2025 pages "1–10"; four entries end in "et al."; no DOIs yet.
 - Check Mount Sinai web/branding policy for lab sites.

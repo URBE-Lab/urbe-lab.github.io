@@ -1,0 +1,7 @@
+---
+title: "Data sources"
+---
+
+Public datasets the lab uses or recommends for urban exposure and health research.
+
+[Placeholder: list the data sources to include, with a one-line description, coverage, and link for each.]{.ph}

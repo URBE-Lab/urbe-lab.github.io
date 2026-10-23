@@ -1,0 +1,7 @@
+---
+title: "Framework references"
+---
+
+Key conceptual frameworks that guide the lab's work.
+
+[Placeholder: list the framework references to include (e.g., exposome, urban nature and health pathways), with APA citations and links.]{.ph}
