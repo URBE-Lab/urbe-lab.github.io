@@ -1,8 +1,9 @@
 name: Build and publish site
 
+# Site taken down Oct 2026 pending Mount Sinai approval (Website Governance policy).
+# Automatic publishing on push is off; to republish, restore the push trigger
+# or run this workflow by hand (Actions -> Run workflow).
 on:
-  push:
-    branches: [main]
   workflow_dispatch:
 
 permissions:
