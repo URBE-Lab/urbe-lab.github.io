@@ -55,5 +55,5 @@ Public website for the URBE Lab (PI: Pablo Knobel, PhD, Instructor, Department o
 ## Open items
 
 - Placeholders: home headline/subheadline and tagline, department link, lab culture text, team members and photos, Join page details, PI photo, CV PDF, faculty liaison start year, Resources page content. No LinkedIn or Bluesky links (Pablo's choice).
-- Publication entries to verify against PubMed (from CV): Health & Place 2022 first-author name ("Núñez" vs "Fernández-Núñez"), J Urban Health 2025 pages "1–10"; four entries end in "et al."; no DOIs yet.
+- Publications checked against Crossref (Oct 2026): every entry has a DOI; author lists are APA 7 (up to 20 authors, then ". . ." and the last author).
 - Check Mount Sinai web/branding policy for lab sites.

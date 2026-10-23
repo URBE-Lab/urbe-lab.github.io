@@ -6,19 +6,17 @@ Peer-reviewed publications from the PI's record, newest first (APA style). **Kno
 
 Full record: [Google Scholar](https://scholar.google.com/citations?user=WFf1FOoAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0001-6902-0286)
 
-[Placeholder: add DOIs for each entry.]{.ph}
-
 ::::: pub-year
 ::: yr
 2026
 :::
 
 :::: entries
-Krasnov, H., Hung, W., **Knobel, P.**, Kloog, I., Ko, F., Thompson, H., Colicino, E., Teitelbaum, S. L., Just, A. C., & Yitshak-Sade, M. (2026). Urban exposures, frailty, and mental illness in World Trade Center Health Program responders. *Nature Communications, 17*, 9449.
+Krasnov, H., Hung, W., **Knobel, P.**, Kloog, I., Ko, F., Thompson, H., Colicino, E., Teitelbaum, S. L., Just, A. C., & Yitshak-Sade, M. (2026). Urban exposures, frailty, and mental illness in World Trade Center Health Program responders. *Nature Communications, 17*, 9449. <https://doi.org/10.1038/s41467-026-77401-7>
 
-Krasnov, H., **Knobel, P.**, Hsu, H.-H. L., Teitelbaum, S. L., McLaughlin, M. A., Just, A. C., Kloog, I., & Yitshak-Sade, M. (2026). The association between long-term exposure to PM~2.5~ constituents and diabetes incidence and blood glucose levels among World Trade Center Health Program general responders. *American Journal of Epidemiology, 195*(2), 497–504.
+Krasnov, H., **Knobel, P.**, Hsu, H.-H. L., Teitelbaum, S. L., McLaughlin, M. A., Just, A. C., Kloog, I., & Yitshak-Sade, M. (2026). The association between long-term exposure to PM~2.5~ constituents and diabetes incidence and blood glucose levels among World Trade Center Health Program general responders. *American Journal of Epidemiology, 195*(2), 497–504. <https://doi.org/10.1093/aje/kwaf238>
 
-Royuela, O., Oliva, F., Bucker, J., De Córdoba Gil, C., Fontana-McNally, M., Gatto, D. L., Guinart, D., Knobel-Freud, H., **Knobel, P.**, Lupo, W., Macias, C., Montero, M., Moreno-Alcázar, A., Amann, B. L., Valiente-Gómez, A., & Hogg, B. (2026). Stressful life events, PTSD symptoms and mental health in people living with HIV: Correlates of trauma in people with HIV. *Journal of Psychosomatic Research*, 112545.
+Royuela, O., Oliva, F., Bucker, J., De Córdoba Gil, C., Fontana-McNally, M., Gatto, D. L., Guinart, D., Knobel-Freud, H., **Knobel, P.**, Lupo, W., Macias, C., Montero, M., Moreno-Alcázar, A., Wolf, J., Padberg, F., Amann, B. L., Valiente-Gómez, A., & Hogg, B. (2026). Stressful life events, PTSD symptoms and mental health in people living with HIV. *Journal of Psychosomatic Research, 204*, 112545. <https://doi.org/10.1016/j.jpsychores.2026.112545>
 ::::
 :::::
 
@@ -28,23 +26,21 @@ Royuela, O., Oliva, F., Bucker, J., De Córdoba Gil, C., Fontana-McNally, M., Ga
 :::
 
 :::: entries
-Hwang, S. A., Singhvi, A., Patil, L., Gohari, K., Yitshak-Sade, M., Colicino, E., Aldridge, M. D., Baccarelli, A. A., Kloog, I., Schwartz, J., Morrison, R. S., Wright, R. O., Bøggild, H., Sheidaei, A., & **Knobel, P.** (2025). Noise exposure and dementia risk: A systematic review and meta-analysis. *Public Health Reviews, 46*, 1607355.
+Hwang, S. A., Singhvi, A., Patil, L., Gohari, K., Yitshak-Sade, M., Colicino, E., Aldridge, M. D., Baccarelli, A. A., Kloog, I., Schwartz, J., Morrison, R. S., Wright, R. O., Bøggild, H., Sheidaei, A., & **Knobel, P.** (2025). A comprehensive systematic review and meta-analysis to unravel the noise-dementia nexus. *Public Health Reviews, 46*, 1607355. <https://doi.org/10.3389/phrs.2025.1607355>
 
-**Knobel, P.**, Colicino, E., Kloog, I., Litke, R., Lane, K., Federman, A., Mobbs, C., & Yitshak-Sade, M. (2025). Social vulnerability and biological aging in New York City: An electronic health records-based study. *Journal of Urban Health, 102*, 1–10.
+**Knobel, P.**, Colicino, E., Kloog, I., Litke, R., Lane, K., Federman, A., Mobbs, C., & Yitshak-Sade, M. (2025). Social vulnerability and biological aging in New York City: An electronic health records-based study. *Journal of Urban Health, 102*(2), 240–249. <https://doi.org/10.1007/s11524-024-00948-7>
 
-**Knobel, P.**, Singhvi, A., Krasnov, H., Colicino, E., Kloog, I., Litke, R., & Yitshak-Sade, M. (2025). Beyond greenness: Multidimensional urban nature profiles and atherosclerotic cardiovascular risk. *Environment International, 207*, 110033.
+**Knobel, P.**, Singhvi, A., Krasnov, H., Colicino, E., Kloog, I., Litke, R., Lane, K., Federman, A., Mobbs, C., & Yitshak-Sade, M. (2025). Beyond greenness: Multidimensional urban nature profiles and arteriosclerotic cardiovascular risk. *Environment International, 207*, 110033. <https://doi.org/10.1016/j.envint.2025.110033>
 
-Krasnov, H., Ambalal Patel, K., **Knobel, P.**, Hsu, H.-H. L., Teitelbaum, S. L., McLaughlin, M. A., Just, A. C., & Yitshak-Sade, M. (2025). World Trade Center exposures and cardiometabolic risk among WTC Health Program general responders. *American Journal of Public Health, 115*(7), 1120–1128.
+Krasnov, H., Ambalal Patel, K., **Knobel, P.**, Hsu, H.-H. L., Teitelbaum, S. L., McLaughlin, M. A., Just, A. C., & Yitshak-Sade, M. (2025). World Trade Center (WTC) exposures and cardiometabolic risk among WTC Health Program general responders. *American Journal of Public Health, 115*(7), 1120–1128. <https://doi.org/10.2105/ajph.2025.308079>
 
-Krasnov, H., Nagdeo, K. P., **Knobel, P.**, Colicino, E., Just, A. C., Hadley, M., & Yitshak-Sade, M. (2025). Temperature exposure and acute cardiovascular disease risk in New York City: Case time series. *Journal of the American Heart Association, 14*(11), e039503.
+Krasnov, H., Nagdeo, K. P., **Knobel, P.**, Colicino, E., Just, A. C., Hadley, M., & Yitshak-Sade, M. (2025). Temperature exposure and acute cardiovascular disease risk in New York City: Case time series. *Journal of the American Heart Association, 14*(11), e039503. <https://doi.org/10.1161/jaha.124.039503>
 
-Krasnov, H., Sachdev, K., **Knobel, P.**, Colicino, E., & Yitshak-Sade, M. (2025). Long-term exposure to PM~2.5~ constituents and ischemic stroke in the New York City metropolitan area. *Chemosphere, 378*, 144390.
+Krasnov, H., Sachdev, K., **Knobel, P.**, Colicino, E., & Yitshak-Sade, M. (2025). The association between long-term exposure to PM~2.5~ constituents and ischemic stroke in the New York City metropolitan area. *Chemosphere, 378*, 144390. <https://doi.org/10.1016/j.chemosphere.2025.144390>
 
-Ma, T.\*, **Knobel, P.**\*, Hadley, M., Colicino, E., Amini, H., Federman, A., Schwartz, J., Steenland, K., & Yitshak-Sade, M. (2025). PM~2.5~ component mixtures and atherosclerotic cardiovascular disease mortality among Medicare beneficiaries. *NEJM Evidence, 4*(6), EVIDoa2400221.
+Wu, J., **Knobel, P.**, He, M. Z., Kloog, I., Just, A. C., Gutiérrez-Avila, I., Colicino, E., Téllez-Rojo, M. M., Pizano-Zárate, M. L., Tamayo-Ortiz, M., Cantoral, A., Soria-Contreras, D. C., Baccarelli, A. A., Wright, R. O., & Yitshak-Sade, M. (2025). Air pollution, temperature, and HbA1c levels among children in Mexico City, Mexico. *Ecotoxicology and Environmental Safety, 307*, 119424. <https://doi.org/10.1016/j.ecoenv.2025.119424>
 
-Sakhvidi, M. J. Z., Browning, M. H. E. M., Samuelsson, K., Labib, S. M., Psyllidis, A., Ameagah, A. K., Astell-Burt, T., **Knobel, P.**, et al. (2025). Methodological guidance for selecting buffers in greenspace and health studies. *The Lancet Planetary Health, 9*(3), e198–e210.
-
-Wu, J., **Knobel, P.**, He, M. Z., Kloog, I., Just, A. C., Gutiérrez-Avila, I., Colicino, E., Téllez-Rojo, M. M., Pizano-Zárate, M. L., Tamayo-Ortiz, M., Cantoral, A., Soria-Contreras, D. C., Baccarelli, A. A., Wright, R. O., & Yitshak-Sade, M. (2025). Air pollution, temperature, and HbA1c levels among children in Mexico City, Mexico. *Ecotoxicology and Environmental Safety, 307*, 115072.
+Zare Sakhvidi, M. J., Browning, M. H. E. M., Samuelsson, K., Labib, S. M., Psyllidis, A., Amegah, A. K., Astell-Burt, T., Bach, A., Jerrett, M., Bratman, G. N., van den Bosch, M., de Hoogh, K., de Vries, S., Dzhambov, A. M., Fallah Madvari, R., Feng, X., Fernandes, A., Fuertes, E., Giannico, V., . . . Dadvand, P. (2025). Methodological guidance for selecting buffers in greenspace–health studies. *The Lancet Planetary Health, 9*(11), 101370. <https://doi.org/10.1016/j.lanplh.2025.101370>
 ::::
 :::::
 
@@ -54,7 +50,9 @@ Wu, J., **Knobel, P.**, He, M. Z., Kloog, I., Just, A. C., Gutiérrez-Avila, I.,
 :::
 
 :::: entries
-**Knobel, P.**, Just, A. C., Colicino, E., Teitelbaum, S. L., McLaughlin, M. A., Amini, H., & Yitshak-Sade, M. (2024). The association of air pollution exposure with glucose and lipid levels: The role of an extreme air pollution event alongside two decades of moderate exposure. *American Journal of Epidemiology, 193*(1), 87–95.
+**Knobel, P.**, Just, A. C., Colicino, E., Teitelbaum, S. L., McLaughlin, M. A., Amini, H., & Yitshak-Sade, M. (2024). The association of air pollution exposure with glucose and lipid levels: The role of an extreme air pollution event alongside two decades of moderate exposure. *American Journal of Epidemiology, 193*(1), 87–95. <https://doi.org/10.1093/aje/kwad173>
+
+Ma, T.\*, **Knobel, P.**\*, Hadley, M., Colicino, E., Amini, H., Federman, A., Schwartz, J., Steenland, K., & Yitshak-Sade, M. (2024). Source-specific PM~2.5~ and atherosclerotic cardiovascular disease mortality. *NEJM Evidence, 3*(12), EVIDoa2400182. <https://doi.org/10.1056/evidoa2400182>
 ::::
 :::::
 
@@ -64,11 +62,11 @@ Wu, J., **Knobel, P.**, He, M. Z., Kloog, I., Just, A. C., Gutiérrez-Avila, I.,
 :::
 
 :::: entries
-Adewuyi, F. A., **Knobel, P.**, Gogna, P., & Dadvand, P. (2023). Health effects of green prescription: A systematic review of randomized controlled trials. *Environmental Research, 230*, 116844.
+Adewuyi, F. A., **Knobel, P.**, Gogna, P., & Dadvand, P. (2023). Health effects of green prescription: A systematic review of randomized controlled trials. *Environmental Research, 236*, 116844. <https://doi.org/10.1016/j.envres.2023.116844>
 
-**Knobel, P.**, Hwang, I., Castro, E., Sheffield, P., Holaday, L., Shi, L., Amini, H., Schwartz, J., & Yitshak-Sade, M. (2023). Socioeconomic and racial disparities in source-apportioned PM~2.5~ levels across urban areas in the contiguous United States. *Atmospheric Environment, 303*, 119753.
+**Knobel, P.**, Hwang, I., Castro, E., Sheffield, P., Holaday, L., Shi, L., Amini, H., Schwartz, J., & Yitshak-Sade, M. (2023). Socioeconomic and racial disparities in source-apportioned PM~2.5~ levels across urban areas in the contiguous US, 2010. *Atmospheric Environment, 303*, 119753. <https://doi.org/10.1016/j.atmosenv.2023.119753>
 
-Knobel, H., Cañas-Ruano, E., Guelar, A., **Knobel, P.**, Villar-García, J., González-Mena, A., Canepa, C., et al. (2023). Switching to dolutegravir/lamivudine or bictegravir/emtricitabine/tenofovir alafenamide: A comparative real-world study. *HIV Research & Clinical Practice, 24*(1), 2239564.
+Knobel, H., Cañas-Ruano, E., Guelar, A., **Knobel, P.**, Villar-García, J., González-Mena, A., Canepa, C., Arrieta-Aldea, I., Marcos, A., Abalat-Torres, A., & Güerri-Fernández, R. (2023). Switching to dolutegravir/lamivudine or bictegravir/emtricitabine/tenofovir alafenamide: A comparative real-world study. *HIV Research & Clinical Practice, 24*(1), 2239564. <https://doi.org/10.1080/25787489.2023.2239564>
 ::::
 :::::
 
@@ -78,15 +76,15 @@ Knobel, H., Cañas-Ruano, E., Guelar, A., **Knobel, P.**, Villar-García, J., Go
 :::
 
 :::: entries
-Fernández-Núñez, M. B., Campos-Suzman, L., Maneja, R., Bach, A., Marquet, O., Anguelovski, I., & **Knobel, P.** (2022). Sex and gender differences in the association between urban greenness and cardiometabolic health: A systematic review. *Journal of Urban Health, 99*(6), 1054–1067.
+Fernández Núñez, M.-B., Campos Suzman, L., Maneja, R., Bach, A., Marquet, O., Anguelovski, I., & **Knobel, P.** (2022). The differences by sex and gender in the relationship between urban greenness and cardiometabolic health: A systematic review. *Journal of Urban Health, 99*(6), 1054–1067. <https://doi.org/10.1007/s11524-022-00685-9>
 
-**Knobel, P.**, Litke, R., & Mobbs, C. V. (2022). Biological age and environmental risk factors for dementia and stroke: Molecular mechanisms. *Frontiers in Aging Neuroscience, 14*, 1042488.
+Fernández Núñez, M.-B., Campos Suzman, L., Maneja, R., Bach, A., Marquet, O., Anguelovski, I., & **Knobel, P.** (2022). Gender and sex differences in urban greenness' mental health benefits: A systematic review. *Health & Place, 76*, 102864. <https://doi.org/10.1016/j.healthplace.2022.102864>
 
-Núñez, M. B. F., Campos-Suzman, L., Maneja, R., Bach, A., Marquet, O., Anguelovski, I., & **Knobel, P.** (2022). Gender and sex differences in urban greenness' mental health benefits: A systematic review. *Health & Place, 76*, 102864.
+**Knobel, P.**, Litke, R., & Mobbs, C. V. (2022). Biological age and environmental risk factors for dementia and stroke: Molecular mechanisms. *Frontiers in Aging Neuroscience, 14*, 1042488. <https://doi.org/10.3389/fnagi.2022.1042488>
 
-Sakhvidi, M. J. Z., **Knobel, P.**, Bauwelinck, M., de Keijzer, C., Boll, L. M., Spano, G., Ubalde-Lopez, M., et al. (2022). Greenspace exposure and children behavior: A systematic review. *Science of the Total Environment, 824*, 153608.
+Zaldo-Aubanell, Q., Serra, I., Bach, A., **Knobel, P.**, Campillo-i-López, F., Belmonte, J., Daunis-i-Estadella, P., & Maneja, R. (2022). Environmental heterogeneity in human health studies: A compositional methodology for land use and land cover data. *Science of the Total Environment, 806*, 150308. <https://doi.org/10.1016/j.scitotenv.2021.150308>
 
-Zaldo-Aubanell, Q., Serra, I., Bach, A., **Knobel, P.**, Campillo-i-López, F., Belmonte, J., Daunis-i-Estadella, P., & Maneja, R. (2022). Environmental heterogeneity in human health studies: A compositional methodology for land use and land cover data. *Science of the Total Environment, 806*, 150308.
+Zare Sakhvidi, M. J., **Knobel, P.**, Bauwelinck, M., de Keijzer, C., Boll, L. M., Spano, G., Ubalde-Lopez, M., Sanesi, G., Mehrparvar, A. H., Jacquemin, B., & Dadvand, P. (2022). Greenspace exposure and children behavior: A systematic review. *Science of the Total Environment, 824*, 153608. <https://doi.org/10.1016/j.scitotenv.2022.153608>
 ::::
 :::::
 
@@ -96,13 +94,13 @@ Zaldo-Aubanell, Q., Serra, I., Bach, A., **Knobel, P.**, Campillo-i-López, F., 
 :::
 
 :::: entries
-**Knobel, P.**, Dadvand, P., Alonso, L., Costa, L., Español, M., & Maneja, R. (2021). Development of the urban green space quality assessment tool (RECITAL). *Urban Forestry & Urban Greening, 57*, 126895.
+**Knobel, P.**, Dadvand, P., Alonso, L., Costa, L., Español, M., & Maneja, R. (2021). Development of the urban green space quality assessment tool (RECITAL). *Urban Forestry & Urban Greening, 57*, 126895. <https://doi.org/10.1016/j.ufug.2020.126895>
 
-**Knobel, P.**, Kondo, M., Maneja, R., Zhao, Y., Dadvand, P., & Schinasi, L. H. (2021). Associations of objective and perceived greenness measures with cardiovascular risk factors in Philadelphia, PA: A spatial analysis. *Environmental Research, 197*, 110990.
+**Knobel, P.**, Kondo, M., Maneja, R., Zhao, Y., Dadvand, P., & Schinasi, L. H. (2021). Associations of objective and perceived greenness measures with cardiovascular risk factors in Philadelphia, PA: A spatial analysis. *Environmental Research, 197*, 110990. <https://doi.org/10.1016/j.envres.2021.110990>
 
-**Knobel, P.**, Maneja, R., Bartoll, X., Alonso, L., Bauwelinck, M., Valentin, A., Zijlema, W., Borrell, C., Nieuwenhuijsen, M., & Dadvand, P. (2021). Quality of urban green spaces influences residents' use of these spaces, physical activity, and overweight/obesity. *Environmental Pollution, 271*, 116393.
+**Knobel, P.**, Maneja, R., Bartoll, X., Alonso, L., Bauwelinck, M., Valentin, A., Zijlema, W., Borrell, C., Nieuwenhuijsen, M., & Dadvand, P. (2021). Quality of urban green spaces influences residents' use of these spaces, physical activity, and overweight/obesity. *Environmental Pollution, 271*, 116393. <https://doi.org/10.1016/j.envpol.2020.116393>
 
-**Knobel, P.**, Serra, C., Grau, S., Ibañez, R., Diaz, P., Ferrández, O., Villar, R., et al. (2021). Coronavirus disease 2019 (COVID-19) mRNA vaccine effectiveness in asymptomatic healthcare workers. *Infection Control & Hospital Epidemiology, 42*(12), 1517–1519.
+**Knobel, P.**, Serra, C., Grau, S., Ibañez, R., Diaz, P., Ferrández, O., Villar, R., Lopez, A. F., Pujolar, N., Horcajada, J. P., Roman, M., Comas, M., Sala, M., & Castells, X. (2021). Coronavirus disease 2019 (COVID-19) mRNA vaccine effectiveness in asymptomatic healthcare workers. *Infection Control & Hospital Epidemiology, 42*(12), 1517–1519. <https://doi.org/10.1017/ice.2021.287>
 ::::
 :::::
 
@@ -112,8 +110,8 @@ Zaldo-Aubanell, Q., Serra, I., Bach, A., **Knobel, P.**, Campillo-i-López, F., 
 :::
 
 :::: entries
-**Knobel, P.**, Dadvand, P., & Maneja, R. (2019). A systematic review of multi-dimensional quality assessment tools for urban green spaces. *Health & Place, 59*, 102198.
+**Knobel, P.**, Dadvand, P., & Maneja, R. (2019). A systematic review of multi-dimensional quality assessment tools for urban green spaces. *Health & Place, 59*, 102198. <https://doi.org/10.1016/j.healthplace.2019.102198>
 
-Miralles-Guasch, C., Dopico, J., Delclòs-Alió, X., **Knobel, P.**, Marquet, O., Maneja-Zaragoza, R., Schipperijn, J., & Vich, G. (2019). Natural landscape, infrastructure, and health: The physical activity implications of urban green space composition among the elderly. *International Journal of Environmental Research and Public Health, 16*(20), 3986.
+Miralles-Guasch, C., Dopico, J., Delclòs-Alió, X., **Knobel, P.**, Marquet, O., Maneja, R., Schipperijn, J., & Vich, G. (2019). Natural landscape, infrastructure, and health: The physical activity implications of urban green space composition among the elderly. *International Journal of Environmental Research and Public Health, 16*(20), 3986. <https://doi.org/10.3390/ijerph16203986>
 ::::
 :::::
