@@ -4,7 +4,7 @@ Handoff notes for Claude Code sessions working on this repository. Read this fir
 
 ## What this is
 
-Public website for the URBE Lab (PI: Pablo Knobel, PhD, Instructor, Department of Environmental Medicine, Icahn School of Medicine at Mount Sinai). Built with **Quarto** (website project) and deployed to GitHub Pages at <https://urbe-lab.github.io> by `.github/workflows/publish.yml` on every push to `main`.
+Public website for the URBE Lab (PI: Pablo Knobel, PhD, Instructor, Department of Environmental Medicine, Icahn School of Medicine at Mount Sinai). Built with **Quarto** (website project) and deployed to GitHub Pages at <https://urbe-lab.github.io> by `.github/workflows/publish.yml`. **Taken down Oct 2026** pending Mount Sinai approval: publishing is manual only (push trigger removed) and the Pages site was unpublished.
 
 ## Working rules
 

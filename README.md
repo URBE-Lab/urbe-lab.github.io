@@ -1,6 +1,6 @@
 # URBE Lab website
 
-Source for <https://urbe-lab.github.io>, built with [Quarto](https://quarto.org) and published with GitHub Pages. Every push to `main` rebuilds and redeploys the site automatically (`.github/workflows/publish.yml`). Nothing needs to be installed locally: edit files in the GitHub web editor or in a Codespace.
+Source for <https://urbe-lab.github.io>, built with [Quarto](https://quarto.org) and published with GitHub Pages. The site is currently offline pending institutional approval; publishing is manual only (Actions → "Build and publish site" → Run workflow). Nothing needs to be installed locally: edit files in the GitHub web editor or in a Codespace.
 
 ## One-time setup
 
